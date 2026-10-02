@@ -1,0 +1,21 @@
+{
+  "id": 871,
+  "title": "Delivery Route Trainer Waypoint Missions",
+  "repository_slug": "delivery-route-trainer-waypoint-missions",
+  "category": "Drones",
+  "platform": "RP2040",
+  "platform_family": "arduino",
+  "difficulty": "Intermediate",
+  "estimated_hours": 32,
+  "connectivity": "LoRa",
+  "components": [
+    "barometer",
+    "LiDAR",
+    "GPS module"
+  ],
+  "scope": "Build a drones prototype that uses barometer, LiDAR, GPS module to fly repeatable waypoint routes. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Waypoint Missions demonstration with repeatable test steps",
+  "mode": "interactive_monitor",
+  "entrypoint": "firmware/delivery-route-trainer-waypoint-missions/delivery-route-trainer-waypoint-missions.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
